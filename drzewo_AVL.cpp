@@ -3,7 +3,6 @@
 // Zadanie 7.1
 // Drzewo AVL
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
