@@ -3,7 +3,6 @@
 // Zadanie 7.2
 // Drzewo RB
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
